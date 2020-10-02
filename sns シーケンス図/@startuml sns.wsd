@@ -1,0 +1,5 @@
+@startuml sns
+actor user as u 
+boundary urls.py as ur
+boundary 
+@enduml
